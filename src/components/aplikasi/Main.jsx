@@ -121,22 +121,22 @@ const Main = () => {
                         {
                             title: "CMDBUILD Promat",
                             desc: "Platform berbasis web untuk mengakses data Sumur Bandung.",
-                            link: "http://103.233.103.22:8080/promat/ui/#classes/tutupan_lahan/cards"
+                            // link: "#"
                         },
                         {
                             title: "Mobile Promat",
                             desc: "Aplikasi mobile untuk akses mudah di smartphone.",
-                            link: "https://play.google.com/store/games?hl=id"
+                            // link: "#"
                         },
                         {
                             title: "Mapstore Promat",
                             desc: "Penyimpanan peta digital dan data geospasial.",
-                            link: "https://play.google.com/store/games?hl=id"
+                            // link: "#"
                         },
                         {
                             title: "Geoserver Promat",
                             desc: "Jelajahi data geospasial dengan mudah.",
-                            link: "https://play.google.com/store/games?hl=id"
+                            // link: "#"
                         }
                     ].map((card, index) => (
                         <motion.div
