@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import { getCMDBuildClassesDb } from "../services/cmdbuildServices";
 import p1 from '../assets/img/p1.png';
-import p2 from '../assets/img/bg-unsplash.jpg';
-import p3 from '../assets/img/bg-2.jpg'; 
+import p2 from '../assets/img/p1.png';
+import p3 from '../assets/img/p1.png'; 
 import Cookies from "js-cookie";
 
 const images = [p1, p2, p3];
